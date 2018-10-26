@@ -1,0 +1,52 @@
+.App-title {
+    height: 70px;
+    padding: 40px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-family:"courier new", courier, monospace;
+    background-size: 100%;
+    background-image: url('/../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-color: rgb(154, 226, 226);
+
+  }
+
+  .App-intro {
+    color: rgb(7, 7, 7);
+    padding: 20px 0;
+    text-align: center; }
+    footer a {
+      color: rgb(10, 10, 10);
+      text-decoration: none; }
+      footer a:hover {
+        text-decoration: underline; }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  footer {
+    color: rgb(12, 12, 12);
+    padding: 525px 0;
+    text-align: center; }
+   

@@ -1,0 +1,3 @@
+# TheSnackers
+
+In this third project of the bootcamp, we intend to build an online snack shop simulator, namely SnacksAtWork. A user will be able to view and select from available snacks displayed on the front page, read description of each product and learn about their ingriedients by hovering the mouse over each card. Once the desired product and quantity is selected, the user can hit the cart button for checkout where name and delivery address is prompted. There is a login form for shop owners to view the inventory, and process the order placed. Happy snacking @ work!!

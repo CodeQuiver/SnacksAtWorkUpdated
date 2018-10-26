@@ -1,0 +1,11 @@
+/* .SnackItem {
+    height: 50px;
+} */
+
+.SnackItem img.responsive-img {
+    /* width: auto; */
+    /* height: 80px; */
+    padding: 0 10px;
+}
+
+/* -note- goal above was to force the images to fit the divs correctly without distorting, but the responsive-img class appears to be handling that now */
